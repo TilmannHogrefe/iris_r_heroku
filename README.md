@@ -1,2 +1,2 @@
-# iris_r_heroku
-Files for uploading shiny web app from R to heroku
+# iris-r-heroku
+Deploying the iris predictor web app built with R shiny on Heroku
